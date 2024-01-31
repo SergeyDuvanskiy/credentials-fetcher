@@ -1,6 +1,5 @@
 #include "daemon.h"
 
-#include <jsoncpp/json/json.h>
 #include <iostream>
 #include <credentialsfetcher.grpc.pb.h>
 #include <fstream>
